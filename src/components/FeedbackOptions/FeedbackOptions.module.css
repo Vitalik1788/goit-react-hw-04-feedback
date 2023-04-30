@@ -1,0 +1,24 @@
+.btn_list {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin-top: 30px;
+  list-style: none;
+}
+
+.btn {
+  width: 200px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: 24px;
+  border-radius: 50px;
+  border: none;
+  color: darkblue;
+  background-color: #fff;
+}
+
+.btn:hover,
+.btn:focus {
+  background-color: goldenrod;
+  color: #fff;
+}

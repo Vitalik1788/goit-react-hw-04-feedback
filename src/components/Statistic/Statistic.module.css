@@ -1,0 +1,29 @@
+.stats_title {
+  text-align: center;
+  margin-top: 30px;
+  font-size: 28px;
+}
+
+.stats_list {
+  display: flex;
+  justify-content: center;
+  margin-top: 30px;
+  gap: 30px;
+}
+
+.stats_item {
+  font-size: 20px;
+}
+
+.total_list {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  gap: 100px;
+}
+
+.total_item {
+  font-size: 28px;
+  color: blue;
+}
+
